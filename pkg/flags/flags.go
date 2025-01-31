@@ -86,7 +86,7 @@ func ParseFlags(argc int, argv []string, flags *Flags) Args {
 	if file == -1 {
 		file = argc
 	}
-
+	// Fix this shit
 	args.First = file
 	args.Last = last
 
