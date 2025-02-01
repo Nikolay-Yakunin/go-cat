@@ -54,7 +54,6 @@ func main() {
 	}
 }
 
-
 func printHelp(progName string) {
 	helpMessage := `Usage: ` + progName + ` [OPTION]... [FILE]...
 
